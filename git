@@ -1,4 +1,4 @@
-git init   初始化
+git init   ##初始化
 git  add .    
 git status -s
 git config --global user.name 'zonameng'
