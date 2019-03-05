@@ -1,0 +1,7 @@
+git init   初始化
+git  add .    
+git status -s
+git config --global user.name 'zonameng'
+git config --global user.email zonameng@163.com
+git commit -m '第一次版本提交'
+git push  -u origin master
