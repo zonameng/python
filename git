@@ -1,7 +1,7 @@
-git init   ³õÊ¼»¯
+git init   åˆå§‹åŒ–
 git  add .    
 git status -s
 git config --global user.name 'zonameng'
 git config --global user.email zonameng@163.com
-git commit -m 'µÚÒ»´Î°æ±¾Ìá½»'
+git commit -m 'ç¬¬ä¸€æ¬¡ç‰ˆæœ¬æäº¤'
 git push  -u origin master
