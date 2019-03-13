@@ -4,4 +4,5 @@ git status -s
 git config --global user.name 'zonameng'
 git config --global user.email zonameng@163.com
 git commit -m '第一次版本提交'
+git remote add origin  
 git push  -u origin master
