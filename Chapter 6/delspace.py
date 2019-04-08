@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 #用 strip()、rstrip()和 lstrip()删除空白字符
 spam = ' Hello World '
 print(spam)

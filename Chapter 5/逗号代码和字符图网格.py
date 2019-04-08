@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 def listtest(spam):
     spam.insert(-1,'and')
     a=','.join(spa)

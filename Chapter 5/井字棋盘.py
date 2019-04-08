@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 #这是一个井字棋盘游戏
 theBoard={'top-L':' ','top-W':' ','top-R':' ','mid-L':' ','mid-W':' ','mid-R':' ','low-L':' ','low-W':' ','low-R':' '}
 def printBoard(board):

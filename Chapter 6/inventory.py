@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 spam="That is Alice's cat."
 print(spam)
 spam=spam.upper()
